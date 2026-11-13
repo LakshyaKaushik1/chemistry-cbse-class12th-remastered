@@ -1,0 +1,22 @@
+# d- and f-Block Elements — Important Topics
+
+- Electronic configurations of d-block elements — **especially Cr, Cu and exceptional configurations**
+- Definition of transition elements; **why Zn, Cd, Hg are not transition elements**
+- General characteristics of transition elements
+- **Variable oxidation states** — trends in the 3d series, especially Mn
+- **Standard electrode potentials (E°)** and stability of oxidation states
+- Important comparisons/reasons involving **Cr²⁺/Cr³⁺, Mn²⁺/Mn³⁺, Fe²⁺/Fe³⁺ and Cu⁺/Cu²⁺**
+- **Magnetic properties** — unpaired electrons and spin-only magnetic moment, $\mu = \sqrt{n(n+2)}$
+- **Colour of transition-metal ions** and relation with d-electron configuration
+- **Complex formation** — reasons transition metals form complexes
+- **Catalytic properties** of transition metals with examples
+- **Interstitial compounds and alloys** — characteristics and examples
+- Oxides of transition metals — **basic, amphoteric and acidic nature with increasing oxidation state**
+- **$K_2Cr_2O_7$ (potassium dichromate)** — preparation, structure, chromate–dichromate equilibrium, oxidising action and uses
+- **$KMnO_4$ (potassium permanganate)** — preparation, structure, oxidation reactions in acidic/neutral/alkaline media and uses
+- **Lanthanoids:** electronic configurations, oxidation states and **lanthanoid contraction**
+- Consequences of **lanthanoid contraction**
+- **Actinoids:** electronic configurations, oxidation states and **actinoid contraction**
+- **Comparison of lanthanoids and actinoids** — electronic configuration, oxidation states and chemical reactivity
+- Important **electronic-configuration and unpaired-electron numerical questions**
+- Preparation steps of **$K_2Cr_2O_7$ from chromite ore and $KMnO_4$ from pyrolusite ore**
